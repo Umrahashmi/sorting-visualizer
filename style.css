@@ -51,11 +51,11 @@ body {
 
 @media only screen and (max-width: 600px) {
     body {
-        font-size: 24px; /* Adjust font size for smaller screens */
+        font-size: 18px; /* Adjust font size for smaller screens */
     }
 
     .container {
-        padding: 10px; /* Adjusted padding for better spacing on small screens */
+        padding: 18px; /* Adjusted padding for better spacing on small screens */
     }
 
     .bar {
